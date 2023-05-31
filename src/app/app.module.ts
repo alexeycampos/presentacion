@@ -7,6 +7,7 @@ import { DescripcionComponent } from './descripcion/descripcion.component';
 
 import { FotoComponent } from './foto/foto.component';
 import { LinkComponent } from './link/link.component';
+import { CabeceraComponent } from './cabecera/cabecera.component';
 
 
 @NgModule({
@@ -14,7 +15,8 @@ import { LinkComponent } from './link/link.component';
     AppComponent,
     DescripcionComponent,
     FotoComponent,
-    LinkComponent
+    LinkComponent,
+    CabeceraComponent
   ],
   imports: [
     BrowserModule,
