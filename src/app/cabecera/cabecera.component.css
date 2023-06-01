@@ -1,0 +1,60 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.logo {
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    float: left;
+    
+    
+  }
+
+  header{
+    width: 100%;
+    background: #99A3A4;
+  }
+
+  .ancho{
+    width: 80%;
+    height: 70px;
+   /*background: red;*/
+    margin: auto;
+  }
+
+  /*.logos{
+    width: 90%;
+    height: 70px;
+    background: blue;
+   
+  }*/
+
+  nav{
+    width: 85%;
+    height: 100%;
+   /*background: olive;*/
+    float: left;
+    text-align: right;
+    padding-top: 20px;
+    
+  }
+
+  nav ul li{
+    display: inline;
+
+  }
+
+  nav ul li a{
+    color: #fff;
+    font-size: 13px;
+    text-transform: uppercase;
+    padding-left: 20px;
+    font-weight: bold;
+    letter-spacing: 1px;
+  }
+
+  nav ul li a:hover{
+    color: #444;
+  }
