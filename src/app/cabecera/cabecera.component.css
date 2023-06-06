@@ -12,15 +12,27 @@
     
   }
 
-  header{
-    width: 100%;
-    background: #99A3A4;
+  .nombre p {
+    text-align: right;
+    font-size: larger;
+    letter-spacing: 1px;
+    padding-right: 30px;
   }
+
+
+  header {
+    width: 100%;
+    background: #F9FCFC;
+    
+  }
+
+ 
 
   .ancho{
     width: 80%;
     height: 70px;
    /*background: red;*/
+   background: #707778 ;
     margin: auto;
   }
 
